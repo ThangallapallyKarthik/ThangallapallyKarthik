@@ -12,7 +12,7 @@
 - Opportunities to contribute to open-source projects or work with teams on challenging software engineering problems.
 
 - 📫 How to reach me ...
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- Email: [karthikchintu0512@gmail.com](mailto:karthikchintu0512@gmail.com)
 - LinkedIn: [linkedin.com/in/thangallapallykarthik](https://linkedin.com/in/thangallapallykarthik)
 
  -😄 Pronouns: He/Him
